@@ -516,6 +516,14 @@ p {
 }
 /* End Keyframes */
 
+@media only screen and (max-width: 768px){
+    html,
+    body{
+    width:100%;
+    overflow-x:hidden;
+    }
+}
+
 /* Media Query For Tablet */
 @media only screen and (min-width: 768px) {
 	.cta {
@@ -740,10 +748,4 @@ p {
 	}
 	/* End contact  */
 }
-@media only screen and (max-width: 768px){
-    html,
-    body{
-    width:100%;
-    overflow-x:hidden;
-    }
-}
+
