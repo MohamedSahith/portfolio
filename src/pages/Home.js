@@ -81,8 +81,8 @@ class Home extends React.Component{
         </div>
         <div className="project-item">
           <div className="project-info">
-            <h1><a href={"https://www.symmetricnextgen.com/"}>symmetricnextgen.com</a></h1>
-            <h2>Made in Wordpress</h2>
+            <h2><a href={"https://www.symmetricnextgen.com/"}>symmetricnextgen.com</a></h2>
+            <h3>Made in Wordpress</h3>
             <p>
               Web Development Services and Digital Marketing Agency As a reliable Branding Agency, Symmetricnextgen organizes intelligently created integrated campaigns that ensure a seamless experience for customers.!
             </p>
